@@ -1,0 +1,28 @@
+name: vmedia
+favicon: null
+layout_spectrum: 0.08436076063662767
+typography_spectrum: 0.8579626341816038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9686726224608719
+  lightness: 0.14784112898632884
+  saturation: 0.5899902817327529
+  rhythmicContrast: 0.39953087200410664
+purpose: []
