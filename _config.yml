@@ -1,4 +1,4 @@
-name: vmedia
+name: volshebnikmedia
 favicon: null
 layout_spectrum: 0.08436076063662767
 typography_spectrum: 0.8579626341816038
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9686726224608719
-  lightness: 0.14784112898632884
-  saturation: 0.5899902817327529
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.5
   rhythmicContrast: 0.39953087200410664
 purpose: []
