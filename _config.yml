@@ -1,6 +1,6 @@
 name: volshebnikmedia
 favicon: null
-layout_spectrum: 0.08436076063662767
+layout_spectrum: 0.64453
 typography_spectrum: 0.8579626341816038
 title: volshebnikmedia
 cta:
@@ -22,7 +22,7 @@ color:
     - '#859398'
     - '#a5afb3'
     - '#41565e'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0.39953087200410664
