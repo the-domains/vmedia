@@ -1,20 +1,6 @@
-name: volshebnikmedia
-favicon: null
-layout_spectrum: 0.64453
 typography_spectrum: 0.8579626341816038
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: true
 color:
   brandColors:
     - '#0c1a20'
@@ -26,4 +12,23 @@ color:
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0.39953087200410664
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64453
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Nemanja
+  email: nemanjalakic@volshebnikmedia.com
+name: volshebnikmedia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: null
 purpose: []
